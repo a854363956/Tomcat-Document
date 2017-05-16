@@ -11,6 +11,7 @@
 1. 简介                               - Apache Tomcat的简要，高级概述。
 2. 安装程序                       - 如何在各种平台上安装和运行Apache Tomcat。
 3. 第一个Web应用程序    - 介绍Servlet规范中定义的Web应用程序的概念。 涵盖Web应用程序源代码树的基本组织，Web应用程序归档的结构以及Web应用程序部署的详细描述文件（**/WEB-INF/web.xml**）的简介。
-4. 
+4. 部署 - 操作Apache Tomcat Deployer来部署，预编译和验证Web应用程序。
+
 
 

@@ -45,5 +45,13 @@
 
 27. 在Maven中使用Tomcat库 - 通过Maven获取Tomcat jar。
 
+28. 安全注意事项 - 保护Apache Tomcat安装时要考虑的选项。
+
+29. Windows服务 - 在Microsoft Windows上运行Tomcat作为服务。
+
+30. Windows身份验证 - 配置Tomcat以使用集成的Windows身份验证。
+
+31. 高并发JDBC池 - 配置Tomcat以使用替代的JDBC池。
+
 
 

@@ -25,5 +25,5 @@
 
 在运行脚本之前，该JAVA\_HOME环境变量应该设置为JDK的基础路径。另外，当调用_./configure_，JDK的路径可以指定使用，           `--with-java`，如。`./configure --with-java=/usr/java`
 
-
+使用下面的命令会产生一个编译jsvc二进制，位于$CATALINA\_HOME/bin的文件夹。这个假设是使用GNU tar，这CATALINA\_HOME是一个环境变量指向Tomcat安装的基本路径。
 

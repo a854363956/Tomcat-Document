@@ -4,5 +4,13 @@
 
 ---
 
+## Terminology\(术语\)
+
+在阅读这些文件的过程中，您将会遇到许多条款; 一些具体到Tomcat，以及其他由Servlet和JSP规范定义的。
+
+* Context  web程序的上下文
+* Term2 - This is it.   \(PS:水平有限无法理解\)
+* Term3 - This is it! \(PS:水平有限无法理解\)
+
 
 

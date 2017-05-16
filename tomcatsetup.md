@@ -61,3 +61,5 @@ jsvc有其他有用的参数，如用户使其在程序初始化完成后切换�
 
 jsvc --help  将返回全jsvc使用信息。特别是，该调试选项运行调试出现的问题对jsvc是非常有用的
 
+这个文件 $CATALINA\_HOME/bin/daemon.sh 启动tomcat的模版文件到 /etc/init.d 具有 jsvc.
+

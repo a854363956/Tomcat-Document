@@ -23,5 +23,5 @@
 
 可以将Tomcat作为守护进程运行使用来自Commons Daemon项目的jsvc工具。对于jsvc源形式包括Tomcat二进制文件，需要编译。构建jsvc需要C的ANSI编译器（如GCC），GNU autoconf，和JDK。
 
-
+在运行脚本之前，该JAVA\_HOME环境变量应该设置为JDK的基础路径。另外，当调用_./configure_，JDK的路径可以指定使用，java的参数，如。`./configure --with-java=/usr/java`
 

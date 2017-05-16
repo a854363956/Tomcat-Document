@@ -21,6 +21,7 @@
 11. JSPs - 有关Jasper配置的信息，以及JSP编译器的使用。
 12. SSL / TLS - 安装和配置SSL / TLS支持，以便您的Apache Tomcat将使用https协议提供请求。
 13. SSI - 使用服务器端包含在Apache Tomcat中。
+14. CGI - 在Apache Tomcat使用CGI
 
 
 

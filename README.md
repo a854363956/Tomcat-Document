@@ -31,5 +31,11 @@
 
 20. Connectors -  Apache Tomcat中提供的连接器和本机Web服务器集成
 
+21. 监控和管理 - 启用JMX Remote支持，并使用工具来监视和管理Apache Tomcat。
+
+22. 日志记录 - 在Apache Tomcat中配置日志记录。
+
+23. Apache便携式运行 - 使用APR提供卓越的性能，可扩展性和与本机服务器技术的更好的集成。
+
 
 

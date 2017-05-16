@@ -13,5 +13,7 @@
 * **Tray icon **- 当Tomcat作为服务运行时，Tomcat运行时不会出现任何托盘图标。请注意，当选择在安装结束时运行Tomcat，托盘图标将被使用，即使Tomcat被安装为一个服务。
 * _**有关如何管理Tomcat作为Windows服务的信息，请参阅Windows服务指南。**_
 
+---
+
 
 

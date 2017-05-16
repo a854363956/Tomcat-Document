@@ -29,5 +29,7 @@
 
 19. Balancer- 配置，使用和扩展负载Balancer应用程序。
 
+20. Connectors -  Apache Tomcat中提供的连接器和本机Web服务器集成
+
 
 

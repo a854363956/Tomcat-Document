@@ -18,6 +18,9 @@
 8. JNDI资源 - 在提供给每个Web应用程序的JNDI命名上下文中配置标准和自定义资源。
 9. JDBC DataSource - 使用DB连接池配置JNDI DataSource。 许多流行数据库的例子。
 10. Class加载 - 有关Apache Tomcat中的Class加载的信息，包括放置应用程序类的位置，使其可见。
+11. JSPs - 有关Jasper配置的信息，以及JSP编译器的使用。
+12. SSL / TLS - 安装和配置SSL / TLS支持，以便您的Apache Tomcat将使用https协议提供请求。
+13. SSI - 使用服务器端包含在Apache Tomcat中。
 
 
 

@@ -25,5 +25,11 @@
 * /logs - 默认情况下日志文件存放在这个目录
 * /webapps - 默认情况下这个地方存放你的web程序
 
+---
+
+### Configuring Tomcat \(配置Tomcat\) {#Configuring_Tomcat}
+
+
+
 
 

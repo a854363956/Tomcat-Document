@@ -25,6 +25,9 @@
 15. 代理支持 - 配置Apache Tomcat运行在代理服务器（或作为代理服务器的Web服务器）之后。
 16. 依赖注入 - 为组件配置依赖注入
 17. 默认的Servlet - 配置 默认的servlet 和定制目录列表
-18. 
+18. Apache Tomcat集群 - 在Apache Tomcat环境中启用会话复制。
+
+19. Balancer- 配置，使用和扩展负载Balancer应用程序。
+
 
 

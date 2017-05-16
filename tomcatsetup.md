@@ -57,3 +57,5 @@ cd $CATALINA_HOME
 
 如果JVM默认使用服务器虚拟机而不是客户端虚拟机，则还需要指定JVM服务器。这已被观察到在OSX。
 
+jsvc有其他有用的参数，如用户使其在程序初始化完成后切换到另一个用户。这允许，例如，运行Tomcat作为一个非特权用户，同时仍然能够使用特权端口。注意如果你使用这个选项，因为使用root启动Tomcat，你需要禁用org.apache.catalina.security.securitylistener检查防止Tomcat启动root身份运行。
+

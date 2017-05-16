@@ -46,6 +46,7 @@
 * [Tomcat WIKI](http://wiki.apache.org/tomcat/)
 * Tomcat FAQ at jGuru
 * Tomcat 邮件列表档案众多网站归档Tomcat邮件列表。由于链接的变化随着时间的推移，点击这里将搜索谷歌。
+* Tomcat-user邮件列表，你可以订阅这里。如果你没有得到回复，然后有一个很好的机会，你的问题可能是列表中的档案或一个常见问题回答。虽然一般关于Web应用程序开发的问题有时会被询问和回答，但请将您的问题集中在Tomcat的具体问题上。
 
 
 

@@ -23,7 +23,7 @@
 13. SSI - 使用服务器端包含在Apache Tomcat中。
 14. CGI - 在Apache Tomcat使用CGI
 15. 代理支持 - 配置Apache Tomcat运行在代理服务器（或作为代理服务器的Web服务器）之后。
-16. MBeans 描述- 在组件 MBean配置 描述文件
+16. 依赖注入描述- 为组件配置依赖注入的描述文件
 
 
 

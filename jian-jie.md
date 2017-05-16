@@ -29,6 +29,14 @@
 
 ### Configuring Tomcat \(配置Tomcat\) {#Configuring_Tomcat}
 
+本节将了解容器配置过程中所使用的基本信息。
+
+配置文件中的所有信息都是在启动时读取的，这意味着对文件的任何更改都必须重新启动容器。
+
+---
+
+## Where to Go for Help\(如何获取帮助\)
+
 
 
 

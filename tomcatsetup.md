@@ -59,3 +59,5 @@ cd $CATALINA_HOME
 
 jsvc有其他有用的参数，如用户使其在程序初始化完成后切换到另一个用户。这允许，例如，运行Tomcat作为一个非特权用户，同时仍然能够使用特权端口。注意如果你使用这个选项，因为使用root启动Tomcat，你需要禁用org.apache.catalina.security.securitylistener检查防止Tomcat启动root身份运行。
 
+jsvc --帮助 将返回全jsvc使用信息。特别是，该调试选项运行调试出现的问题对jsvc是非常有用的
+

@@ -63,5 +63,11 @@ jsvc --help  将返回全jsvc使用信息。特别是，该调试选项运行调
 
 文件 $CATALINA\_HOME/bin/daemon.sh 启动tomcat的模版文件到 /etc/init.d 可以启动 jsvc.
 
-请注意，Commons Daemon JAR文件必须在运行时类路径以这种方式运行tomcat。以下的守护程序JAR文件的bootstrap.jar体现类路径条目，但如果你得到一个ClassNotFoundException或者NoClassDefFoundError一Commons Daemon类，添加Commons Daemon jar的CP争论当发射jsvc。
+请注意，Commons Daemon JAR文件必须在运行时类路径以这种方式运行tomcat。以下的守护程序JAR文件的bootstrap.jar体现类路径条目，但如果你得到一个ClassNotFoundException或者NoClassDefFoundError一Commons Daemon类，添加Commons Daemon jar的CP争论当发射jsvc。 
+
+
+
+PS: 英语不好,并且没有使用过jsvc,导致翻译的不是很明确,如果有兴趣请查看
+
+原文[http://tomcat.apache.org/tomcat-8.5-doc/setup.html](http://tomcat.apache.org/tomcat-8.5-doc/setup.html)
 

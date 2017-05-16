@@ -27,3 +27,5 @@
 
 使用下面的命令会产生一个编译jsvc二进制，位于$CATALINA\_HOME/bin的文件夹。这个假设是使用GNU tar，这CATALINA\_HOME是一个环境变量指向Tomcat安装的基本路径。
 
+请注意，您应该使用GNU make（gmake）而不是本地的BSD FreeBSD系统。
+

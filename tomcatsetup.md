@@ -29,3 +29,15 @@
 
 请注意，您应该使用GNU make（gmake）而不是本地的BSD FreeBSD系统。
 
+```bash
+cd $CATALINA_HOME/bin
+tar xvfz commons-daemon-native.tar.gz
+cd commons-daemon-1.0.x-native-src/unix
+./configure
+make
+cp jsvc ../..
+cd ../..
+```
+
+
+

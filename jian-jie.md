@@ -16,5 +16,7 @@
 
 ## Directories and Files\(目录和文件\)
 
+在整个文档中，您会注意到有许多对$CATALINA\_HOME的引用。  这表示您的Tomcat安装的根目录。 当我们说“这个信息可以在你的$CATALINA\_HOME/README.txt文件中找到”时，我们的意思是查看Tomcat安装根目录下的README.txt文件。 可选地，可以为每个实例定义$CATALINA\_BASE，为多个实例配置Tomcat。 如果未配置多个实例，则$CATALINA\_BASE与$CATALINA\_HOME相同。
+
 
 

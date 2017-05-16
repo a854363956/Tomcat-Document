@@ -22,6 +22,7 @@
 12. SSL / TLS - 安装和配置SSL / TLS支持，以便您的Apache Tomcat将使用https协议提供请求。
 13. SSI - 使用服务器端包含在Apache Tomcat中。
 14. CGI - 在Apache Tomcat使用CGI
+15. 代理支持 - 配置Apache Tomcat运行在代理服务器（或作为代理服务器的Web服务器）之后。
 
 
 

@@ -55,5 +55,5 @@ cd $CATALINA_HOME
     org.apache.catalina.startup.Bootstrap
 ```
 
-
+如果JVM默认使用服务器虚拟机而不是客户端虚拟机，则还需要指定JVM服务器。这已被观察到在OSX。
 

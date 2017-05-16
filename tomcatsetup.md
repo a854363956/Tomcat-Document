@@ -63,3 +63,5 @@ jsvc --help  将返回全jsvc使用信息。特别是，该调试选项运行调
 
 文件 $CATALINA\_HOME/bin/daemon.sh 启动tomcat的模版文件到 /etc/init.d 可以启动 jsvc.
 
+
+

@@ -42,6 +42,10 @@
 请记住，一些问题和解决方案各不相同的主要版本的Tomcat。当您在网络上搜索时，将有一些与Tomcat 8无关的文档，但仅限于早期版本。
 
 * 当前文档-大多数文件将列出潜在难题。一定要充分阅读相关的文件，因为它会节省你大量的时间和精力。没有什么能比上网搜索更快的获取帮助！
-* 
+* [Tomcat FAQ](http://wiki.apache.org/tomcat/FAQ)
+* [Tomcat WIKI](http://wiki.apache.org/tomcat/)
+* Tomcat FAQ at jGuru
+* Tomcat 邮件列表档案众多网站归档Tomcat邮件列表。由于链接的变化随着时间的推移，点击这里将搜索谷歌。
+
 
 

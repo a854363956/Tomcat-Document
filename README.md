@@ -53,5 +53,9 @@
 
 31. 高并发JDBC池 - 配置Tomcat以使用替代的JDBC池。
 
+32. WebSocket支持 - 为Apache Tomcat开发WebSocket应用程序。
+
+33. URL重写 - 使用基于regexp的重写阀门进行条件URL和主机重写。
+
 
 
